@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  jubilant-system:
+    image: ${DOCKER_REGISTRY-}jubilantsystem
+    build:
+      context: .
+      dockerfile: jubilant-system/Dockerfile

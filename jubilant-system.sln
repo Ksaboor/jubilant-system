@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jubilant-system", "jubilant-system\jubilant-system.csproj", "{3225DF9B-7749-4348-B937-EF372F030B40}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{ADBB1941-CF07-4AD2-9A6A-9014BB9D515E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3225DF9B-7749-4348-B937-EF372F030B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3225DF9B-7749-4348-B937-EF372F030B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3225DF9B-7749-4348-B937-EF372F030B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3225DF9B-7749-4348-B937-EF372F030B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBB1941-CF07-4AD2-9A6A-9014BB9D515E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBB1941-CF07-4AD2-9A6A-9014BB9D515E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBB1941-CF07-4AD2-9A6A-9014BB9D515E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBB1941-CF07-4AD2-9A6A-9014BB9D515E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
